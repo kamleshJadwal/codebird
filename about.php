@@ -65,18 +65,66 @@
         </div>
     </div>
 
-    <section class="section">
+ <!-- Aboutus Section -->
+ <section class="section about-section" style="background-image: linear-gradient(#1a1a1a,#1a1a1a),url(./images/noice-bg.png);">
         <div class="container">
-            <div class="row align-items-end">
+            <div class="col-lg-12 col-12">
+                <div class="section-heading text-start">
+                    <div class="sub-heading text-white">About Codebird <svg xmlns="http://www.w3.org/2000/svg" width="50"
+                            height="6" viewBox="0 0 50 6">
+                            <path d="M50 3L45 0.113249V5.88675L50 3ZM0 3.5H45.5V2.5H0V3.5Z"></path>
+                        </svg></div>
+                    <h2 class="text-white"><span>About</span> Codebird<span></span></h2>
+                </div>
+            </div>
+            <div class="row justify-content-end">
+                <div class="col-xl-10">
+                    <div class="row g-lg-4 gy-5">
+                        <div class="col-md-6">
+                            <div class="about-content">
+                                <div class="about-top-content text-white">
+                                    <p>Codebird is a leading blockchain development company in India, specializing in crafting innovative solutions for businesses worldwide. Their extensive services include blockchain development, ICOs, IDOs, NFT marketplaces, DeFi wallets, smart contracts, cryptocurrency exchanges, launchpad development, token creation, and comprehensive cryptocurrency development. </p>
+                                    <p>Committed to accessibility, affordability, and quality, Codebird offers tailored solutions to various industries, automating, authenticating, and decentralizing processes. Their expertise extends to token design, ICOs, STOs, IEOs, and dynamic DApps. With a focus on continuous learning and advancement, Codebird aims to provide valuable insights and unlock the potential of blockchain technology for businesses seeking to elevate their enterprises.</p>
+                                </div>
+                                <a class="btn btn-primary" href="#" target="_self">Contact Now</a>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="about-img-wrap">
+                                <div class="vectors">
+                                    <img decoding="async" class="about-vectors-1" src="images/about-vectors-2.svg"
+                                        width="150">
+                                    <img decoding="async" class="about-vectors-2" src="images/about-vectors-1.svg"
+                                        width="250" alt="">
+                                </div>
+                                <div class="about-img animated-move">
+                                    <img decoding="async" src="images/aboutus/codebird.png" class="w-100" alt="image">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Aboutus Section end -->
+    
+<!-- mossion and Vision -->
+    <section class="section about-section">
+        <div class="container">
+            <div class="row align-items-start me-auto">
                 <div class="col-lg-6 col-12">
                     <div class="section-heading text-start">
-                        <div class="sub-heading">About Codebird <svg xmlns="http://www.w3.org/2000/svg" width="50"
-                                height="6" viewBox="0 0 50 6">
-                                <path d="M50 3L45 0.113249V5.88675L50 3ZM0 3.5H45.5V2.5H0V3.5Z"></path>
-                            </svg></div>
-                        <h2>Developing software <span>empower transformative leaders</span></h2>
+                        <h2>Mission & <span>Vision</span></h2>
                     </div>
                     <ul class="counter-wrap">
+                        <li class="single-counter">
+                            <div class="number">
+                                <h2 class="counter">9</h2>
+                                <span>+ years</span>
+                            </div>
+                            <p>Experience in Blockchain</p>
+                        </li>
                         <li class="single-counter">
                             <div class="number">
                                 <h2 class="counter">50</h2>
@@ -93,15 +141,20 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col-lg-6 col-12">
-                <p>At Codebird, we proudly stand as India’s premier blockchain development company, synonymous with pioneering enterprise blockchain solutions that transform businesses across the globe. Our extensive portfolio encompasses a spectrum of cutting-edge services, including Blockchain, ICO, IDO, NFT Marketplace, DeFi Wallets, Smart Contracts, Cryptocurrency Exchanges, Launchpad Development, Token Creation, and Comprehensive Cryptocurrency Development. Rooted in our commitment to accessibility, affordability, and uncompromising quality, our offerings serve as a conduit for elevating businesses to new heights through the harnessing of our profound expertise.</p>
-                    <p>Our robust experience in blockchain technology empowers us to craft bespoke solutions tailored to diverse industries. By automating, authenticating, and decentralizing processes, our innovatively designed NFTs, NFT marketplaces, crypto exchanges, cryptocurrency wallets, and DeFi solutions redefine industry standards while minimizing costs.</p>
+                <div class="col-lg-5 col-12">
+                    <div class="about-content">
+                        <p>Our vision at Codebird Technologies Pvt Ltd is to become a leading IT and Blockchain company in India, known for delivering industry-leading solutions in the Blockchain space. Our goal is to empower our clients and businesses by creating new possibilities through the utilization of cutting-edge technologies, while maintaining the highest standards of quality, satisfaction, and transparency.</p> 
+                        <p>As a premier offshore software development company, we offer a comprehensive range of services, including website and mobile app development, game development, blockchain development, NFT marketplace development, smart contract development, and other IT solutions to clients globally.</p>
+                        <div class="star">
+                            <svg width="125" height="238" viewBox="0 0 125 238" xmlns="http://www.w3.org/2000/svg"><path d="M38.6309 0L0 56.3948V181.605L38.6309 238L36.7294 169.585L101.181 192.524L59.4476 138.332L125 119L59.4476 99.6675L101.181 45.4764L36.7294 68.415L38.6309 0Z"></path></svg>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="section brand-part pt-0">
+<section class="section brand-part py-0">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -132,6 +185,11 @@
 		</div>
 	</div>
 </section>
+
+<!-- Testimonials Section -->
+<?php include('testimonials.php'); ?>        
+<!-- Testimonials Section end -->
+
 
 
 <section class="section" style="background-image: linear-gradient(#1a1a1a,#1a1a1a),url(./images/noice-bg.png);">
@@ -196,7 +254,7 @@
 </section>
 
 <!-- cta banner -->
-    <section class="section cta-banner-section">
+    <section class="section cta-banner-section pb-0">
         <div class="container" style="background-image: url(.//images/cta-banner-bg.jpg);">
             <div class="col-11 col-lg-9 mx-auto">
                 <div class="cta-banner-inner">
@@ -210,7 +268,6 @@
         </div>
     </section>
 <!-- cta banner end -->
-
 
 
 

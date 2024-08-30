@@ -30,11 +30,9 @@
                     </div>
                 </div>
                 <div class="col-lg-4 mx-auto">
-                    <a class="banner-butten ms-lg-auto" href="#">
+                    <a class="banner-butten ms-lg-auto" href="contact-us.php">
                         <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
-                            <path
-                                d="M10.0035 3.40804L1.41153 12L0 10.5885L8.59097 1.99651H1.01922V0H12V10.9808H10.0035V3.40804Z">
-                            </path>
+                            <path d="M10.0035 3.40804L1.41153 12L0 10.5885L8.59097 1.99651H1.01922V0H12V10.9808H10.0035V3.40804Z"> </path>
                         </svg> Contact <br>Now
                     </a>
                 </div>
@@ -59,21 +57,21 @@
                         </form>
                     </div>
                 </div>
-                <div class="col-lg-3 col-6 mb-4">
+                <div class="col-lg-3 col-12 mb-4">
                     <div id="nav_menu-2" class="footer-widget widget_nav_menu">
                         <h4>Our Link’s</h4>
                         <div class="menu-resources-container">
                             <ul id="menu-resources" class="menu">
-                                <li class="menu-item"><a href="#">About Us</a></li>
-                                <li class="menu-item"><a href="#">Service’s</a></li>
-                                <li class="menu-item"><a href="#">Career</a></li>
-                                <li class="menu-item"><a href="#">Blog</a></li>
-                                <li class="menu-item"><a href="#">portfolio</a></li>
+                                <li class="menu-item"><a href="about.php">About Us</a></li>
+                                <li class="menu-item"><a href="service.php">Service’s</a></li>
+                                <li class="menu-item"><a href="career.php">Career</a></li>
+                                <li class="menu-item"><a href="blog.php">Blog</a></li>
+                                <li class="menu-item"><a href="portfolio.php">portfolio</a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-6 mb-4 d-none">
+                <div class="col-lg-3 col-12 mb-4 d-none">
                     <div id="nav_menu-3" class="footer-widget widget_nav_menu">
                         <h4>Our Services</h4>
                         <div class="menu-our-services-container">

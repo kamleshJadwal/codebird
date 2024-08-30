@@ -62,7 +62,7 @@
                             <li class="navbar-item dropdown"><a href="#" class="navbar-link dropdown-arrow">Blockchain
                                     Services</a>
                                 <ul class="dropdown-position-list">
-                                    <li><a href="#">Blockchain Development</a></li>
+                                    <li><a href="blockchain-development.php">Blockchain Development</a></li>
                                     <li><a href="#">Crypto Exchange Development</a></li>
                                     <li><a href="#">Cryptocurrency Development</a></li>
                                     <li><a href="#">Defi Wallet Development</a></li>
@@ -73,10 +73,10 @@
                                     <li><a href="#">Smart Contract Development</a></li>
                                 </ul>
                             </li>
-                            <li class="navbar-item"><a href="#" class="navbar-link">Our Team</a></li>
-                            <li class="navbar-item"><a href="#" class="navbar-link">Portfolio</a></li>
-                            <li class="navbar-item"><a href="#" class="navbar-link">Blog</a></li>
-                            <li class="navbar-item"><a href="#" class="navbar-link">Contact us</a></li>
+                            <li class="navbar-item"><a href="our-team.php" class="navbar-link">Our Team</a></li>
+                            <li class="navbar-item"><a href="portfolio.php" class="navbar-link">Portfolio</a></li>
+                            <li class="navbar-item"><a href="blog.php" class="navbar-link">Blog</a></li>
+                            <li class="navbar-item"><a href="contact-us.php" class="navbar-link">Contact us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -85,10 +85,10 @@
                         <img src="images/phone-call.png" alt="call">
                         <div>
                             <small>Any Question</small>
-                            <p class="mb-0"><a href="tel:+918949680700">+918949680700</a></p>
+                            <p class="mb-0"><a href="tel:+91 8949 680 700">+91 8949 680 700</a></p>
                         </div>
                     </div>
-                    <a class="header-widget btn btn-primary" href="enquiry.php" target="_self">Get in Touch</a>
+                    <a class="header-widget btn btn-primary" href="contact-us.php" target="_self">Get in Touch</a>
                 </div>
             </div>
         </div>
@@ -114,7 +114,7 @@
                 <li>
                     <a class="nav-link dropdown-link" href="#"><i class="icofont-home"></i>Blockchain Services</a>
                     <ul class="dropdown-list" style="display: none;">
-                        <li><a href="#">Blockchain Development</a></li>
+                        <li><a href="blockchain-development.php">Blockchain Development</a></li>
                         <li><a href="#">Crypto Exchange Development</a></li>
                         <li><a href="#">Cryptocurrency Development</a></li>
                         <li><a href="#">Defi Wallet Development</a></li>
@@ -125,10 +125,10 @@
                         <li><a href="#">Smart Contract Development</a></li>
                     </ul>
                 </li>
-                <li class="nav-item"><a href="#" class="nav-link">Our Team</a></li>
-                <li class="nav-item"><a href="#" class="nav-link">Portfolio</a></li>
-                <li class="nav-item"><a href="#" class="nav-link">Blog</a></li>
-                <li class="nav-item"><a href="#" class="nav-link">Contact us</a></li>
+                <li class="nav-item"><a href="our-team.php" class="nav-link">Our Team</a></li>
+                <li class="nav-item"><a href="portfolio.php" class="nav-link">Portfolio</a></li>
+                <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>
+                <li class="nav-item"><a href="contact-us.php" class="nav-link">Contact us</a></li>
             </ul>
 
         </div>
